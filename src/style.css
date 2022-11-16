@@ -512,6 +512,9 @@ button:focus {
   .experience-card-view {
     width: 20rem;
   }
+  .home-section {
+    background-repeat: no-repeat;
+  }
 }
 
 /* --------- */
