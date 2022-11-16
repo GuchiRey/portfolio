@@ -1,7 +1,7 @@
 # My Portfolio, made with CSS, JavaScript, React, MaterialUI, AOS and React-i18next
 
 ## Live Preview
-https://portfolio-guidorial.vercel.app/
+https://agustin-rey-portfolio.vercel.app/
 
 ## Project Description
 
