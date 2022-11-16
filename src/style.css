@@ -513,7 +513,7 @@ button:focus {
     width: 20rem;
   }
   .home-section {
-    background-repeat: no-repeat;
+    background-size: 0;
   }
 }
 
