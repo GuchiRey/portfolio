@@ -18,6 +18,7 @@ function Projects() {
               <ProjectCard
                 imgPath={project.imgPath}
                 title={project.title}
+                technologies={project.technologies}
                 description={project.description}
                 ghLink={project.ghLink}
                 demoLink={project.demoLink}

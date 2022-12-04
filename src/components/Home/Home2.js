@@ -10,13 +10,13 @@ function Home2() {
   return (
     <Container fluid className="home-about-section" id="about">
       <Container>
-        <Row>
+        <Row className="align-items-center">
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              If I don't know it, <span className="purple"> I figure it out. </span>
+              About me
             </h1>
             <p className="home-about-body">
-              Full Stack Developer with the ability to build/update/optimize scalable web applications using technologies like React.js / Vue.js / Node.js / Express / MongoDB / etc.              <br /><br />
+              I am a developer with more than 3 years of experience and with the ability to build/update/optimize scalable web applications with the best frontend and backend industry technologies such as React.js, Vue.js, MongoDB, NodeJS, and Express.js. <br /> I have a proven track record of high-quality, scalable web applications, and I have the ability to work in a fast and agile environment, as well as the ability to communicate effectively in a team environment.<br /><br />
               <div className="w-100 d-flex justify-content-center">
                 <Link to="/project" className="home-about-button home-about-button-see-project tech-icons px-4">
                   See projects
